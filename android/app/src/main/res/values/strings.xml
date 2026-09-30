@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NEC ELEKTRONIK</string>
+    <string name="title_activity_main">NEC ELEKTRONIK</string>
+    <string name="package_name">com.nekelektronik.pos</string>
+    <string name="custom_url_scheme">com.nekelektronik.pos</string>
+</resources>
